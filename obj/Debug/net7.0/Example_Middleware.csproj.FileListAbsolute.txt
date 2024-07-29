@@ -1,0 +1,14 @@
+/Users/fermayilhesenov/Projects/Example_Middleware/Example_Middleware/bin/Debug/net7.0/Example_Middleware
+/Users/fermayilhesenov/Projects/Example_Middleware/Example_Middleware/bin/Debug/net7.0/Example_Middleware.deps.json
+/Users/fermayilhesenov/Projects/Example_Middleware/Example_Middleware/bin/Debug/net7.0/Example_Middleware.runtimeconfig.json
+/Users/fermayilhesenov/Projects/Example_Middleware/Example_Middleware/bin/Debug/net7.0/Example_Middleware.dll
+/Users/fermayilhesenov/Projects/Example_Middleware/Example_Middleware/bin/Debug/net7.0/Example_Middleware.pdb
+/Users/fermayilhesenov/Projects/Example_Middleware/Example_Middleware/obj/Debug/net7.0/Example_Middleware.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fermayilhesenov/Projects/Example_Middleware/Example_Middleware/obj/Debug/net7.0/Example_Middleware.AssemblyInfoInputs.cache
+/Users/fermayilhesenov/Projects/Example_Middleware/Example_Middleware/obj/Debug/net7.0/Example_Middleware.AssemblyInfo.cs
+/Users/fermayilhesenov/Projects/Example_Middleware/Example_Middleware/obj/Debug/net7.0/Example_Middleware.csproj.CoreCompileInputs.cache
+/Users/fermayilhesenov/Projects/Example_Middleware/Example_Middleware/obj/Debug/net7.0/Example_Middleware.dll
+/Users/fermayilhesenov/Projects/Example_Middleware/Example_Middleware/obj/Debug/net7.0/refint/Example_Middleware.dll
+/Users/fermayilhesenov/Projects/Example_Middleware/Example_Middleware/obj/Debug/net7.0/Example_Middleware.pdb
+/Users/fermayilhesenov/Projects/Example_Middleware/Example_Middleware/obj/Debug/net7.0/Example_Middleware.genruntimeconfig.cache
+/Users/fermayilhesenov/Projects/Example_Middleware/Example_Middleware/obj/Debug/net7.0/ref/Example_Middleware.dll
